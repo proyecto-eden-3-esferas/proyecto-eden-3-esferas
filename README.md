@@ -1,15 +1,40 @@
-¡Bienvenid@s a Proyecto Edén - Tres Esferas!
+"Proyecto Edén - Tres Esferas" translates as "Project Eden - Three Spheres".
 
-¿Qué significa "Edén"? ¿Qué significa "Tres Esferas"? ¿Qué voy a poner aquí? ¿Cómo? ¿Qué material? ¿Y el software?
+Eden stands for a good place, a human society living in harmony with one another and with the natural environment, where wild life and landscape have been kept and preserved, with no conflict.
 
-(1) EDÉN. Edén significa un buen lugar donde vivir y una buena sociedad para el Ser Humano y para el resto de los seres vivos. Sin conflictos, sin desgracias evitables.
+The Three Spheres are the three fields of concern that Westerners would presumably view reality through. These are:
+- Nature
+- Society
+- Mind of the Spirit
 
-(2) TRES ESFERAS. Tres Esferas sería un marco para entender nuestros cuestiones y aspiraciones: la Naturaleza, la Sociedad y la Mente. Muchas teorías tratan uno o varios de estos ámbitos. He considerado conveniente incluír la esfera de la Mente, o de la Religión para quien prefiera llamarlo así, porque a menudo sentimos que nos falta algo o sospechamos que las primeras dos esferas funcionan mal por alguna causa inexplicable.
+No doubt the Left is currently concerned with the Environment and Human Well Being, which fall within my first two spheres, and the Right also addresses issues with Nature and Society. Nevertheless, we often think that there is another dimension to our problems and that they should be approached from a mental or spiritual perspective. This doesn't exactly mean that we ought to become believers. Of course, all spiritual and "mental" traditions are welcome, though I am especially keen on Tibetan traditions. The point is, we must not force our views on others, just point to their existence as alternatives and made them available to others.
 
-(3) CONTENIDOS. Mi solución para las dos primeras esferas sería, para la mayor parte de la Humanidad, la Agroecología, reconstruir el Edén original. Por tanto voy a poner en este proyecto textos y también herramientas para esta sociedad. Finalmente mi propuesta para la Tercera Esfera es que cada uno decida qué le convence y le va bien, sin perseguir a los creyentes ni obligar a los escépticos a creer, pero comprendiendo que tal vez al Ser Humano le falte algo.
+I would like to share this project and invite others to contribute to it through writing their own versions and commentaries as HTML pages that are linked to from withing this site and that link to other contributed pages, as a *graph* as opposed to a chain or sequence of texts (such as a novel) or a hierarchy of texts (such as a textbook).
 
-(4) MODO Y MANERA. ¿Cómo? En forma de tertulia. Dejar libertad para que cada interlocutor hable, se le escuche, y elabore por su cuenta su rama del proyecto, que tal vez otros o yo decidamos tomar en parte. GitHub sirve originariamente para albergar proyectos de software, pero la herramienta básica que emplea, git, sirve también para hacer Escritura Colaborativa. Crear un foro. Sin uso abusivo de de medios audiovisuales...
+GitHub has kindly allowed me to run a website as a subdomain at [proyecto-eden-3-esferas](https://proyecto-eden-3-esferas.github.io).
 
-(5) TIPO DE MATERIAL. Textos, tutoriales, instrucciones, bases de datos (XML, JSON). Se intentará que el material se pueda citar, y nos ceñiremos a HTML y en general XML porque son las más difundidas y normalizadas (regidas por una norma internacional.) O bien texto puro. Siempre formatos libres e iclusivos.
+I intend to add some tools for writing and generally for communicating. Some of them have already been crafted, so all I can do is point to them and document them. I am in the course of developing other communication tools, too. Most of what I will be contributing will consist of templates (files with gaps to fill in in order to achieve something) and recipes, not much innovation as such in that.
 
-(6) SOFTWARE. En este sitio me gustaría compartir software que he ido escribiendo. En primer lugar software orientado a texto, como plantillas para escribir páginas web y hojas de estilo para efectuar transformaciones (XSTL) etc. Este software aporta parte de la forma con la que conseguimos expresarnos, constituye nuestra propia casa editorial...
+For instance, I would like to provide some basic template of an HTML page so that others might fill it in and contribute to my project.
+
+Below is one instance of a template. The contributer should copy the code below into a file named WHATEVER.html, replace the upper case prompts with their own content, and send it to me through some channel (only email for the time being):
+```
+<!DOCTYPE html>
+  <html>
+  <head>
+    <title>TITLE_ON_BROWSER_WINDOW</title>
+    <link rel=stylesheet href="MY_STYLESHEET.css" type="text/css" media=screen>
+  </head>
+  <body>
+    <header>TITLE (NOT ESSENTIAL)</header>
+    <nav>SOME LINKS</nav>
+    <main>CONTENT AS <p>PARAGRAPH</p>'s, <table>TABLE</table>'s ETC</main>
+    <footer>AUTHOR, REMARKS ETC</footer>
+  </body>
+</html>
+```
+Finally, some of the tasks that I wish to complete in English:
+- [ ] A c++ geometry library, actually an extension to Boost.Geometry, to produce pictures in SVG, (Embedded) PostScript, and other vector formats
+- [x] XSLT code to convert my DocBook files into HTML
+- [ ] A repository of worthy texts to be quoted
+- [x] Documetation of my way and understanding of writing a book
