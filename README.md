@@ -1,11 +1,11 @@
 "Proyecto Edén - Tres Esferas" translates as "Project Eden - Three Spheres".
 
-Eden stands for a good place, a human society living in harmony with one another and with the natural environment, where wild life and landscape have been kept and preserved, with no conflict.
+Eden stands for a good place, a human society living in harmony with one another and with the natural environment, where wild life and landscape have been kept and preserved, with no conflict with human affairs.
 
 The Three Spheres are the three fields of concern that Westerners would presumably view reality through. These are:
 - Nature
 - Society
-- Mind of the Spirit
+- Mind or Spirit
 
 No doubt the Left is currently concerned with the Environment and Human Well Being, which fall within my first two spheres, and the Right also addresses issues with Nature and Society. Nevertheless, we often think that there is another dimension to our problems and that they should be approached from a mental or spiritual perspective. This doesn't exactly mean that we ought to become believers. Of course, all spiritual and "mental" traditions are welcome, though I am especially keen on Tibetan traditions. The point is, we must not force our views on others, just point to their existence as alternatives and made them available to others.
 
@@ -27,7 +27,16 @@ Below is one instance of a template. The contributer should copy the code below 
   </head>
   <body>
     <header>TITLE (NOT ESSENTIAL)</header>
-    <nav>SOME LINKS</nav>
+    <nav>
+      <p><a                    href="ANOTHER_PAGE.html">ANOTHER_PAGE</a></p>
+      <p><a rel="RELATIONSHIP" href="ANOTHER_PAGE.html">LINK_TEXT</a></p>
+      <p><a rel="alternate"    href="VERSION.html">ANOTHER VERSION</a></p>
+      <hr/>
+      <p><a            href="A_PAGE.html"       >LINK_TEXT</a></p>
+      <p><a            href="ANOTHER_PAGE.html" >LINK_TEXT</a></p>
+      <p><a rel="prev" href="PREVIOUS_PAGE.html">LINK_TEXT</a></p>
+      <p><a rel="next" href="NEXT_PAGE.html"    >LINK_TEXT</a></p>
+    </nav>
     <main>CONTENT AS <p>PARAGRAPH</p>'s, <table>TABLE</table>'s ETC</main>
     <footer>AUTHOR, REMARKS ETC</footer>
   </body>
