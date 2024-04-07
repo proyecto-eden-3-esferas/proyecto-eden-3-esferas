@@ -44,6 +44,6 @@ Below is one instance of a template. The contributer should copy the code below 
 ```
 Finally, some of the tasks that I wish to complete in English:
 - [ ] A c++ geometry library, actually an extension to Boost.Geometry, to produce pictures in SVG, (Embedded) PostScript, and other vector formats
-- [x] XSLT code to convert my DocBook files into HTML
+- [x] XSLT code to convert my DocBook files into HTML. (Stylesheets for this and other transformations are to be found at [https://github.com/proyecto-eden-3-esferas/XSLT](https://github.com/proyecto-eden-3-esferas/XSLT))
 - [ ] A repository of worthy texts to be quoted
 - [x] Documetation of my way and understanding of writing a book
