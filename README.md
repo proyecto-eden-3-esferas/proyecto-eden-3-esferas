@@ -7,13 +7,13 @@ The Three Spheres are the three fields of concern that Westerners would presumab
 - Society
 - Mind or Spirit
 
-No doubt the Left is currently concerned with the Environment and Human Well Being, which fall within my first two spheres, and the Right also addresses issues with Nature and Society. Nevertheless, we often think that there is another dimension to our problems and that they should be approached from a mental or spiritual perspective. This doesn't exactly mean that we ought to become believers. Of course, all spiritual and "mental" traditions are welcome, though I am especially keen on Tibetan traditions. The point is, we must not force our views on others, just point to their existence as alternatives and made them available to others.
+No doubt the Left is currently concerned with the Environment and Human Well Being, which fall within my first two spheres, and the Right also addresses issues with Nature and Society. Nevertheless, we often think that there is another dimension to our problems and that they should be approached from a mental or spiritual perspective. This doesn't exactly mean that we ought to become believers. Of course, all spiritual and "mental" traditions are welcome, though I am particularly keen on Tibetan ones. The point is, we must not force our views on others, just point to their existence as alternatives and made them available to others.
 
-I would like to share this project and invite others to contribute to it through writing their own versions and commentaries as HTML pages that are linked to from withing this site and that link to other contributed pages, as a *graph* as opposed to a chain or sequence of texts (such as a novel) or a hierarchy of texts (such as a textbook).
+I would like to share this project and invite others to contribute to it through writing their own versions and commentaries as HTML pages that are linked to from within this site and that link to other, contributed pages, as a *graph* as opposed to a chain or sequence of texts (such as a novel) or a hierarchy of texts (such as a textbook).
 
 GitHub has kindly allowed me to run a website as a subdomain at [proyecto-eden-3-esferas](https://proyecto-eden-3-esferas.github.io).
 
-I intend to add some tools for writing and generally for communicating. Some of them have already been crafted, so all I can do is point to them and document them. I am in the course of developing other communication tools, too. Most of what I will be contributing will consist of templates (files with gaps to fill in in order to achieve something) and recipes, not much innovation as such in that.
+I intend to add some tools for writing and generally for communicating. Some of them have already been crafted, so all I can do is point to them and document them. I am in the course of developing other communication tools, too. Most of what I will be contributing will consist of templates (files with gaps to fill in and that perform some task) and recipes, not much innovation as such in that.
 
 For instance, I would like to provide some basic template of an HTML page so that others might fill it in and contribute to my project.
 
